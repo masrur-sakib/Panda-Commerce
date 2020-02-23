@@ -3,6 +3,13 @@
     margin-bottom: 30px;
     /* border: 2px solid black; */
 }
+.title{
+    margin-bottom: 30px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px 1px grey;
+}
 
 /* Carousel Styles */
 .carousel-inner{
@@ -18,12 +25,14 @@
 }
 .button_in_carousel{
     color: white;
+    margin-top: 20px;
     padding: 9px 25px;
     background-color: #ff0066;
     border: none;
     border-radius: 8px;
     cursor: zoom-out;
 }
+
 
 /* Category Styles */
 .cat_watch, .cat_bag, .cat_shoes{
@@ -38,4 +47,25 @@
 }
 .cat_shoes{
     background-image: linear-gradient(90deg, #4028FA, rgb(137, 122, 253));
+}
+
+/* Shoes Section Styles */
+.button_in_shoes{
+    color: white;
+    margin-top: 20px;
+    padding: 5px 15px;
+    background-color: #ff0066;
+    border: none;
+    border-radius: 8px;
+    cursor: zoom-out;
+}
+
+/* Backpack Section Styles */
+.button_in_backpack{
+    color: white;
+    padding: 5px 15px;
+    background-color: #ff0066;
+    border: none;
+    border-radius: 8px;
+    cursor: zoom-out;
 }
