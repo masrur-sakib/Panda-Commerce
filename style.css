@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 30px;
+}
+.carousel-inner{
+    background-color: #FEEAE9;
+    border-radius: 15px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price_in_carousel{
+    color: #ff0066;
+    margin: 10px 0px;
+}
+.button_in_carousel{
+    color: white;
+    padding: 9px 25px;
+    background-color: #ff0066;
+    border: none;
+    border-radius: 8px;
+    cursor: zoom-out;
+}
