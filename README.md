@@ -18,4 +18,4 @@
         <h5>Font awesome icons</h5>
     </li>
 </ul>
-<a target="_blank" href="https://masrur-sakib.github.io/panda_commerce/">Live Website Link</a>
+<a target="_blank" href="https://masrur-sakib.github.io/panda_commerce/">Live Website Link </a>
